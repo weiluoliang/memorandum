@@ -1,5 +1,7 @@
 # office安装方法(2024).md
 
+## 方案一 
+
 ### 1.官网下载 Office Deployment Tool   
 [https://www.microsoft.com/en-us/downl...](https://www.microsoft.com/en-us/download/details.aspx?id=49117)
 
@@ -32,3 +34,7 @@ kms9.MSGuides.com
 
 ### 查看Youtube视频
 https://www.youtube.com/watch?v=Kl1j2GjhaRA  
+
+
+## 方案二 一键部署安装方案
+https://otp.landian.vip/zh-cn/
