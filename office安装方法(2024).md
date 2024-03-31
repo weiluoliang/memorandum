@@ -38,3 +38,7 @@ https://www.youtube.com/watch?v=Kl1j2GjhaRA
 
 ## 方案二 一键部署安装方案
 https://otp.landian.vip/zh-cn/
+
+激活工具【HEU_KMS_Activator】  
+https://github.com/zbezj/HEU_KMS_Activator/releases  
+
